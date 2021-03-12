@@ -2,6 +2,11 @@ class calculator
 {
 	static void Main(string[] args)
 	{
-		int a
+		
+	}
+	
+	static int penambahan(inta, int b)
+	{
+		return a+b;
 	}
 }
