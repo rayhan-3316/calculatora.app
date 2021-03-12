@@ -8,9 +8,9 @@
 *.code-workspace
 
 # User-specific files
-
+*.docx
 # User-specific folders
-
+deploy/
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
